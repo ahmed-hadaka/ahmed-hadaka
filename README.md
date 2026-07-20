@@ -25,16 +25,17 @@ I'm a passionate full-stack developer with expertise in building scalable web ap
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Tools
+### Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Servlets](https://img.shields.io/badge/Servlets-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=jdbc&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-4479A1?style=for-the-badge&logo=Docker&logoColor=white)
 
 ### Core Competencies
 ![OOP](https://img.shields.io/badge/OOP-4FC3F7?style=for-the-badge)
@@ -43,6 +44,7 @@ I'm a passionate full-stack developer with expertise in building scalable web ap
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge)
 ![Data Structures](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-FF9800?style=for-the-badge)
 ![CRUD Operations](https://img.shields.io/badge/CRUD%20Operations-00BCD4?style=for-the-badge)
+![AI Integration](https://img.shields.io/badge/AI%20Integration-9C27B0?style=for-the-badge)
 
 ---
 
