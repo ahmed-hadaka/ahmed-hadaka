@@ -59,7 +59,6 @@ I'm a passionate full-stack developer with expertise in building scalable web ap
 - Role-segregated REST API with Spring Security authentication
 - Random Forest ML model (84.78% accuracy, 91.18% recall)
 - Three-tier architecture: React frontend → Spring Boot backend → MySQL persistence
-- **Live Demo:** https://hdps-frontend.vercel.app/
 - [View Repository](https://github.com/ahmed-hadaka/HeartDiseasePredictionSystem)
 - [Wireframes - Miro Board](https://miro.com/app/live-embed/uXjVGIuIq08=/?embedMode=view_only_without_ui&moveToViewport=-7978%2C-3604%2C15199%2C6877&embedId=751690836475)
 
