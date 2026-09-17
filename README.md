@@ -62,6 +62,14 @@ I'm a passionate full-stack developer with expertise in building scalable web ap
 - [View Repository](https://github.com/ahmed-hadaka/HeartDiseasePredictionSystem)
 - [Wireframes - Miro Board](https://miro.com/app/live-embed/uXjVGIuIq08=/?embedMode=view_only_without_ui&moveToViewport=-7978%2C-3604%2C15199%2C6877&embedId=751690836475)
 
+### 🤖 **Sonic Platform — AI Customer Support Agent**
+*AI/LLM Integration | RAG | MCP (Model Context Protocol) | Autonomous Agent*
+- Built an autonomous email support agent for a fictional e-commerce platform.
+- Engineered an end-to-end automated pipeline that polls a support inbox, reasons about customer inquiries using an LLM, and dispatches automated replies.
+- Implemented a dual-knowledge resolution system leveraging a vector-searchable FAQ knowledge base alongside a relational customer/order database.
+- Integrated the Model Context Protocol (MCP) to seamlessly expose relational database context to the agent.
+- [view repo](https://github.com/ahmed-hadaka/Sonic_E-Commerce_Assistant)
+
 ### 🎓 **School Management System**
 *Java | MVC Architecture*
 - Multi-user system with Admin and Student roles
