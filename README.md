@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer with expertise in building scalable web applications and solving complex algorithmic problems. With experience across multiple programming languages and frameworks, I love creating efficient, maintainable code and continuously improving my craft.
+I'm a passionate full-stack developer with expertise in [ Java - TypeScript - SpringBoot - Angular ] building scalable web applications and solving complex algorithmic problems. With experience across multiple programming languages and frameworks, I love creating efficient, maintainable code and continuously improving my craft.
 
 - 🔭 Currently working on **innovative web applications**
 - 🌱 Always learning and exploring new technologies
@@ -22,6 +22,7 @@ I'm a passionate full-stack developer with expertise in building scalable web ap
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-1572B6?style=for-the-badge&logo=xml&logoColor=white)
@@ -29,6 +30,7 @@ I'm a passionate full-stack developer with expertise in building scalable web ap
 
 ### Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Servlets](https://img.shields.io/badge/Servlets-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
 
