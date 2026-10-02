@@ -155,8 +155,8 @@ I'm a passionate full-stack developer with expertise in [ Java - TypeScript - Sp
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-ahmed--hadaka-181717?style=for-the-badge&logo=github)](https://github.com/ahmed-hadaka)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Hadaka-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ahmed-hadaka)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:ahmedhadaka3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Hadaka-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmed-hadaka-8a2124205/)
 
 </div>
 
